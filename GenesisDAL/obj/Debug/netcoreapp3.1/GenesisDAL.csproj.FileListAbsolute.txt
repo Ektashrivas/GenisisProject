@@ -1,0 +1,8 @@
+E:\Tavant Technologies\CS\Genesis\GenesisDAL\bin\Debug\netcoreapp3.1\GenesisDAL.deps.json
+E:\Tavant Technologies\CS\Genesis\GenesisDAL\bin\Debug\netcoreapp3.1\GenesisDAL.dll
+E:\Tavant Technologies\CS\Genesis\GenesisDAL\bin\Debug\netcoreapp3.1\GenesisDAL.pdb
+E:\Tavant Technologies\CS\Genesis\GenesisDAL\obj\Debug\netcoreapp3.1\GenesisDAL.AssemblyInfoInputs.cache
+E:\Tavant Technologies\CS\Genesis\GenesisDAL\obj\Debug\netcoreapp3.1\GenesisDAL.AssemblyInfo.cs
+E:\Tavant Technologies\CS\Genesis\GenesisDAL\obj\Debug\netcoreapp3.1\GenesisDAL.dll
+E:\Tavant Technologies\CS\Genesis\GenesisDAL\obj\Debug\netcoreapp3.1\GenesisDAL.pdb
+E:\Tavant Technologies\CS\Genesis\GenesisDAL\obj\Debug\netcoreapp3.1\GenesisDAL.csprojAssemblyReference.cache
